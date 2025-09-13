@@ -10,7 +10,7 @@ This project is a C++-based HR Management System that allows creating, managing,
 - **Tree**
 ---
 
-## ⚙️ Algorithems Used
+## 🔄 Algorithms Used
 - **First In First Out (Queue)**
 - **Bread First Search (Tree)** - For visualizing an organization’s employee hierarchy
 
